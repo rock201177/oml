@@ -1,2 +1,2 @@
-# oml-team-selection
-OML Team Selection
+# oml
+OML
